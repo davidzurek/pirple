@@ -1,4 +1,4 @@
-# the idea of this exercise is to create the board matrix "manually"
+# for the sake of this exercise the boad matrix has been created "manually".
 
 import sys
 from termcolor import colored, cprint
