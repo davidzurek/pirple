@@ -1,4 +1,4 @@
-# for the sake of this exercise, the hangman figure will be created by using loops and conditional statements
+# for the sake of this exercise the hangman figure will be created through loops and conditional statements
 
 import random
 from words import word_list
